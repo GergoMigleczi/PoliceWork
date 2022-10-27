@@ -1,0 +1,13 @@
+/Users/migleczigergo/Projects/PoliceWork/bin/Debug/netcoreapp3.1/PoliceWork.deps.json
+/Users/migleczigergo/Projects/PoliceWork/bin/Debug/netcoreapp3.1/PoliceWork.runtimeconfig.json
+/Users/migleczigergo/Projects/PoliceWork/bin/Debug/netcoreapp3.1/PoliceWork.runtimeconfig.dev.json
+/Users/migleczigergo/Projects/PoliceWork/bin/Debug/netcoreapp3.1/PoliceWork.dll
+/Users/migleczigergo/Projects/PoliceWork/bin/Debug/netcoreapp3.1/PoliceWork.pdb
+/Users/migleczigergo/Projects/PoliceWork/obj/Debug/netcoreapp3.1/PoliceWork.csproj.AssemblyReference.cache
+/Users/migleczigergo/Projects/PoliceWork/obj/Debug/netcoreapp3.1/PoliceWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migleczigergo/Projects/PoliceWork/obj/Debug/netcoreapp3.1/PoliceWork.AssemblyInfoInputs.cache
+/Users/migleczigergo/Projects/PoliceWork/obj/Debug/netcoreapp3.1/PoliceWork.AssemblyInfo.cs
+/Users/migleczigergo/Projects/PoliceWork/obj/Debug/netcoreapp3.1/PoliceWork.csproj.CoreCompileInputs.cache
+/Users/migleczigergo/Projects/PoliceWork/obj/Debug/netcoreapp3.1/PoliceWork.dll
+/Users/migleczigergo/Projects/PoliceWork/obj/Debug/netcoreapp3.1/PoliceWork.pdb
+/Users/migleczigergo/Projects/PoliceWork/obj/Debug/netcoreapp3.1/PoliceWork.genruntimeconfig.cache
